@@ -1,16 +1,16 @@
-Question,Answer,Related Text in PDF,Page Number,A1,A2,A3,B1,B2,b3,C1,C2,C3
-What percentage of primary breast cancers showed HER-2/neu gene amplification from2 to greater than 20 fold?,30%,HER-2/neu was found to be amplified from 2- to greater than 20-fold in 30% of the tumors.,1,0,0,0,0,0,0,1,1,0
-What was the sample size of primary human breast cancers investigated in the study?,189,Alterations of the gene in 189 primary human breast cancers were investigated.,2,0,0,0,1,1,1,1,1,1
-Which gene is closely related to HER-2/neu but located on a different chromosome?,EGFR gene,HER-2/neu differs from EGFR in that it is found on band q21 of chromosome 17...,3,1,0,1,1,1,1,1,1,1
-What gene was found to be amplified in the study?,HER-2/neu,"amplified (Fig. 1, cases 78 and 79). The incidence of HER-2/neu",5,1,1,1,0,1,1,1,1,1
-What cancer type is associated with HER-2/neu amplification?,Breast cancer,Human breast cancer: correlation of relapse and,2,1,1,1,0,0,0,1,1,1
-What is the location of HER-2/neu on the chromosome?,17q21,"is found on band q21 of chromosome 17 (22, 24, 25), as compared",3,1,0,0,1,1,1,1,1,1
-What is the molecular weight of the HER-2/neu protein?,"185,000 daltons","by the HER-2/neu gene is 185,000 daltons (21), as compared to the",3,1,1,1,0,0,0,1,1,1
-What gene is often amplified in human neuroblastomas?,NMYC,NMYC,5,0,0,1,1,1,1,1,1,1
-How many breast malignancy tissues were evaluated in the study of the paper?,189,,1,0,0,0,1,1,1,1,1,1
-Which cancer was discussed in this paper?,Breast cancer,,1,1,1,1,1,1,1,1,1,1
-What is the number of tissue from breast cancer was evaluated in the initial study?,103,,2,0,0,0,1,1,1,1,1,1
-was rearrangement of the HER-2/neu gene rare? answer yes or no,Yes,,4,0,1,1,1,1,1,1,1,1
-,,,,50,41.66666667,58.33333333,66.66666667,75,75,100,100,91.66666667
-,,,,,,,,,,,,
-,,,,50,46,52,100,99,92,90,83,82
+Question,Answer,Page Number,A1,A2,A3,B1,B2,b3,C1,C2,C3
+What percentage of primary breast cancers showed HER-2/neu gene amplification from2 to greater than 20 fold?,30%,1,0,0,0,0,0,0,1,1,0
+What was the sample size of primary human breast cancers investigated in the study?,189,2,0,0,0,1,1,1,1,1,1
+Which gene is closely related to HER-2/neu but located on a different chromosome?,EGFR gene,3,1,0,1,1,1,1,1,1,1
+What gene was found to be amplified in the study?,HER-2/neu,5,1,1,1,0,1,1,1,1,1
+What cancer type is associated with HER-2/neu amplification?,Breast cancer,2,1,1,1,0,0,0,1,1,1
+What is the location of HER-2/neu on the chromosome?,17q21,3,1,0,0,1,1,1,1,1,1
+What is the molecular weight of the HER-2/neu protein?,"185,000 daltons",3,1,1,1,0,0,0,1,1,1
+What gene is often amplified in human neuroblastomas?,NMYC,5,0,0,1,1,1,1,1,1,1
+How many breast malignancy tissues were evaluated in the study of the paper?,189,1,0,0,0,1,1,1,1,1,1
+Which cancer was discussed in this paper?,Breast cancer,1,1,1,1,1,1,1,1,1,1
+What is the number of tissue from breast cancer was evaluated in the initial study?,103,2,0,0,0,1,1,1,1,1,1
+was rearrangement of the HER-2/neu gene rare? answer yes or no,Yes,4,0,1,1,1,1,1,1,1,1
+,,,50,41.66666667,58.33333333,66.66666667,75,75,100,100,91.66666667
+,,,,,,,,,,,
+,,,50,46,52,100,99,92,90,83,82

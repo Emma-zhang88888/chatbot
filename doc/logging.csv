@@ -1,12 +1,2 @@
 question,answer,user_judgement
-what i,"It seems like you want me to find an answer from the provided research paper. However, I need more context about what you're looking for an answer to. Could you please clarify or rephrase your question?",0
-no,"I don't know. The question appears to be ""no"" but it's not clear what it's referring to or asking about. Can you please provide more context or clarify the question?",1
-what are the authors?,"The authors are:
-
-1. David J. Slamon
-2. Gary Clark (GM)
-3. Steven G. Wong (SG)
-4. Wendy Levin (WJ)
-
-Additionally, there is a mention of another author named A. Ullrich and W.L. McGuire.",1
-exit,"I don't know. The question ""exit"" is not relevant to the provided context, which appears to be about a scientific study on HER-2/neu gene amplification in breast cancer patients.",1
+Which gene is closely related to HER-2/neu but located on a different chromosome?,"According to the text, the EGFR gene is closely related to HER-2/neu but located on a different chromosome (chromosome 7) compared to HER-2/neu which is located on chromosome 17. Therefore, the answer is the EGFR gene.",1
